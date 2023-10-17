@@ -1,6 +1,6 @@
 # Technomagic Dialects
 
-Contained herein are a set of simple aliases and symbolic links making up a "dialect" with which you can "speak" to a POSIX-conformant shell. It helps you think about computer commands using metaphors other than "computer commands," importing various metaphors sourced from differing cultural contexts. These include, for example, a "text based game" such as an old-school MUD or RPG, pop-cultural references such as Harry Potter spells, and other, more esoteric cultural dialects.
+Contained herein are a set of simple aliases and symbolic links making up a "dialect" with which you can "speak" to a POSIX-conformant shell. It helps you think about computer commands using metaphors other than "computer commands," importing various metaphors sourced from differing cultural contexts. These include, for example, a "text based game" such as an old-school MUD or RPG, pop-cultural references such as mystical spells, and other, more esoteric cultural dialects.
 
 ![Animated GIF showing the use of the locking and unlocking charms on a macOS system from the Harry Potter dialect.](https://i.imgur.com/NhE2S80.gif)
 
